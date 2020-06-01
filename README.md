@@ -121,7 +121,7 @@ While working on this project, you will need to add the following files:
 
 * Figure out who is going to write whose profile.
 
-  ![fork](http://ironboard-curriculum-content.s3.amazonaws.com/web-development/deploy-on-day-1/fork.png)
+  ![fork](http://ironboargit d-curriculum-content.s3.amazonaws.com/web-development/deploy-on-day-1/fork.png)
 
 * Have one person at your table [fork][] this repo.
 * Git [clone][] the forked repo to that person's machine. Ensure that your
